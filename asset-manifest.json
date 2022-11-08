@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7df9699.css",
-    "main.js": "/static/js/main.b30fadb2.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/artist.png": "/static/media/artist.cbbe607f68aff3dca302.png",
-    "static/media/Mood app pic.png": "/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
-    "static/media/impulse.png": "/static/media/impulse.dd8e9fdb49bf83fb193f.png",
-    "index.html": "/index.html",
-    "main.a7df9699.css.map": "/static/css/main.a7df9699.css.map",
-    "main.b30fadb2.js.map": "/static/js/main.b30fadb2.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/reactportfolio/static/css/main.a7df9699.css",
+    "main.js": "/reactportfolio/static/js/main.321a6a9e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/reactportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/artist.png": "/reactportfolio/static/media/artist.cbbe607f68aff3dca302.png",
+    "static/media/Mood app pic.png": "/reactportfolio/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
+    "static/media/impulse.png": "/reactportfolio/static/media/impulse.dd8e9fdb49bf83fb193f.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.a7df9699.css.map": "/reactportfolio/static/css/main.a7df9699.css.map",
+    "main.321a6a9e.js.map": "/reactportfolio/static/js/main.321a6a9e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/reactportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7df9699.css",
-    "static/js/main.b30fadb2.js"
+    "static/js/main.321a6a9e.js"
   ]
 }
