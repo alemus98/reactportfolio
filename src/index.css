@@ -1,0 +1,65 @@
+:root {
+  /* Dark Mode */
+  --black-color-bg: #0d1117;
+  --gray-color: #161b22;
+  --purple-color: #acb4fe;
+  --purple-smoke-color: #cdd0f3;
+  --white-smoke-color: #8b949e;
+  --white-color: #e5e5e5;
+  --gradient-color: linear-gradient(99.51deg, #cbbee7 9.03%, #ffffff 89.53%);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--white-smoke-colorcolor);
+}
+
+.dark-mode {
+  transition: 150ms;
+  background-color: var(--black-color-bg);
+}
+
+
+.purple-text {
+  color: var(--purple-color);
+}
+
+.purple-smoke-text {
+  color: var(--purple-smoke-color);
+}
+
+.white-text {
+  font-weight: 500;
+  color: var(--white-color);
+}
+
+.gray-text {
+  color: var(--white-smoke-color);
+}
+
+
+.container {
+  position: relative;
+  width: auto;
+  max-width: 40rem;
+  padding: 0 1.5rem;
+  margin: 0 auto;
+}
+
+@media (max-width: 425px) {
+  .container {
+    max-width: 100%;
+    padding: 5px;
+  }
+}
